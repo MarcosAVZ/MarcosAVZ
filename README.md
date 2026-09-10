@@ -16,10 +16,10 @@
 
 <br>
 
-- 🎓 Técnico Universitario en Programación | Estudiante de Licenciatura en Sistemas  
-- 💻 Apasionado por el desarrollo de software, actualmente profundizando en JavaScrip, Node y React
-- 📚 En constante formación: aprendiendo por cuenta propia y complementando con formación académica  
-- 🗃 Experiencia en bases de datos como MySQL y SQLite  
+-  Técnico Universitario en Programación | Estudiante de Licenciatura en Sistemas  
+-  Apasionado por el desarrollo de software, actualmente profundizando en JavaScrip, Node y React
+-  En constante formación: aprendiendo por cuenta propia y complementando con formación académica  
+-  Experiencia en bases de datos como MySQL y SQLite  
 
 
 <br><br>
