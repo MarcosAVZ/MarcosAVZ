@@ -21,8 +21,8 @@ Estoy disponible para proyectos freelance y abierto a oportunidades fullstack.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://mrrollers.com/"><img src="assets/markethub-poster.jpg" alt="MarketHub" /></a>
-      <h3><a href="https://mrrollers.com/">MarketHub</a></h3>
+      <a href="https://mrrollers.com/"><img src="assets/markethub-poster.jpg" alt="MR Roller" /></a>
+      <h3><a href="https://mrrollers.com/">MR Roller</a></h3>
       <p>E-commerce en producción con carrito, checkout, gestión de pedidos, envíos dinámicos y panel de administración.</p>
       <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql" height="28" alt="React, TypeScript, Node.js, Express, MySQL" />
     </td>
